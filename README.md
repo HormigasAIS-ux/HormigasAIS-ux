@@ -1,7 +1,7 @@
 HormigasAIS-ux es un proyecto enfocado en el desarrollo de interfaces de usuario (UX) optimizadas para aplicaciones de inteligencia artificial (AI). Este repositorio contiene el código fuente, documentación y recursos necesarios para la implementación y mejora continua del proyecto.
 
-- 👋 Hi, I’m [Hormigasais](https://marketingdigitallinkending.blogspot.com/?m=1)
-- 👀 I’m interested in [hirmigasais.tumblr.com](https://hormigasais.tumblr.com/?source=share)
+- 👋 Hi, I’m [HormigasAIS](https://marketingdigitallinkending.blogspot.com/?m=1)
+- 👀 I’m interested in [hormigasais.tumblr.com](https://hormigasais.tumblr.com/?source=share)
 - 🌱 I’m currently learning ...[HormigasaisLinkedIn](HormigasAIS es un proyecto que se centra en el estudio y la simulación del comportamiento de las hormigas utilizando inteligencia artificial (IA). Este tipo de proyectos suele investigar cómo las hormigas se comunican, colaboran y resuelven problemas complejos, y luego aplica estos principios a algoritmos y sistemas de IA. 
 
 Aplicaciones comunes 
@@ -23,9 +23,9 @@ Ejemplos de uso
 ¿Te gustaría saber más sobre algún aspecto específico de HormigasAIS?
 )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...[Mail](www.google.com/chrisquionez354@gmail.com)
-- 😄 Pronouns: ...[Cristhiam Quimonez](https://commons.wikimedia.org/wiki/User:HormigasAIS)
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...[google.com](www.google.com/chrisquionez354@gmail.com)
+- 😄 Pronouns: ...[wikimedia.org(https://commons.wikimedia.org/wiki/User:HormigasAIS)
+- ⚡ Fun fact: ...[hypothes.is](https://hypothes.is/account/developer/HormigasAIS)
 
 <!---
 HormigasAIS-ux/HormigasAIS-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
