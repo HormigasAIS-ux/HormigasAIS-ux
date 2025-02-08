@@ -24,7 +24,7 @@ Ejemplos de uso
 )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[google.com](www.google.com/chrisquionez354@gmail.com)
-- 😄 Pronouns: ...[wikimedia.org(https://commons.wikimedia.org/wiki/User:HormigasAIS)
+- 😄 Pronouns: ...[wikimedia.org](https://commons.wikimedia.org/wiki/User:HormigasAIS)
 - ⚡ Fun fact: ...[hypothes.is](https://hypothes.is/account/developer/HormigasAIS)
 
 <!---
