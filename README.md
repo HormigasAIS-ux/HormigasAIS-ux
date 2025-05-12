@@ -3,6 +3,16 @@
 ¡Bienvenido a **https://github.com/HormigasAIS-ux/Mkdir-HormigasAIS-Open-Lab-**! 🐜💡  
 Este es un espacio colaborativo para desarrolladores, marketers y creadores que buscan herramientas innovadoras para **automatización, scraping, análisis SEO y contenido con IA**.  
 
+## Conecta con HormigasAIS 
+
+Explora y colabora con nuestra comunidad de inteligencia colectiva: 
+
+[![Newsletter en LinkedIn](https://img.shields.io/badge/LinkedIn%20Newsletter-HormigasAIS-blue?logo=linkedin)](https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048)
+[![Slack Comunidad](https://img.shields.io/badge/Slack-Unirse%20a%20la%20comunidad-4A154B?logo=slack)](https://join.slack.com/t/hormigas-ais/shared_invite/zt-33zssiv5x-WXs1_8mQ6_9m0O9g0VNgAA)
+[![Overleaf Colaboración](https://img.shields.io/badge/Overleaf-Proyectos%20colaborativos-47A141?logo=overleaf)](https://www.overleaf.com/project/68211943b603360a835cd2cd)
+[![Wikipedia Usuario](https://img.shields.io/badge/Wikipedia-Perfil%20HormigasAIS-black?logo=wikipedia)](https://uk.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%3AHormigasAIS&oldid=0&veaction=edit)
+[![Repositorio base](https://img.shields.io/badge/GitHub-Laboratorio%20Open%20Lab-24292e?logo=github)](https://github.com/Thrumanshow/Mkdir-HormigasAIS-Open-Lab-/tree/main/.github)
+
 ## 🔥 ¿Qué puedes encontrar aquí?  
 ✅ **Scripts y bots** para automatizar tareas de marketing.  
 ✅ **Scrapers** para obtener insights de la web.  
