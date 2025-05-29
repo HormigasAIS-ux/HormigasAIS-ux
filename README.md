@@ -53,7 +53,10 @@ Explora y colabora con nuestra comunidad de inteligencia colectiva:
 5. [PullRequest](https://github.com/HormigasAIS-ux/Mkdir-HormigasAIS-Open-Lab-) detallando los cambios.  
 
 ## 📜 Estándares de Código  
-Usamos [Prettier](https://prettier.io/) para formateo y seguimos la convención de commits de [Conventional Commits](https://www.conventionalcommits.org/).  
+Usamos [Prettier](https://prettier.io/) para formateo y seguimos la convención de commits de [Conventional Commits](https://www.conventionalcommits.org/).
+
+## 👤 Sobre el Fundador
+Descubre la historia y visión de [Cristhiam Quiñonez](docs/cristhiam-quinonez-wikipedia-profile.md), creador de HormigasAIS y defensor de la IA colaborativa.  
 
 💡 **Si tienes dudas, revisa el [README](https://github.com/HormigasAIS-ux) o abre un Issue.**
 Explicación inicial del proyecto.. Archivos iniciales o estructura del proyecto con #HormigasAIS [Hormigasais S.A] *Chris Quinonez*. #Acreditación-HormigasAIS-ux// © 2025 Cristhiam Quiñonez | HormigasAIS. Licencia MIT.
