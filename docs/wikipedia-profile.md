@@ -1,4 +1,4 @@
-# 🌐 Perfil de Wikipedia - HormigasAIS
+# 🌐 wikipedia-profile.HormigasAIS
 
 Este archivo es un respaldo estructurado del perfil de usuario creado para Wikipedia en el marco del proyecto **HormigasAIS**, centrado en IA, automatización y UX.
 
