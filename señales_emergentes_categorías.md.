@@ -1,0 +1,60 @@
+# 🚨✨ Módulo: señales_emergentes_categorias.md
+
+**Autor:** Cristhiam Quiñónez & XOXO 🤖  
+**Proyecto:** HormigasAIS Open Lab  
+**Fecha de activación:** 2025-06-07  
+**Estado:** 🧭 Exploración extendida
+
+---
+
+## 📌 Descripción general
+
+Este módulo funciona como una extensión del modo-descubrimiento de XOXO. Se centra en **clasificar y documentar las señales virales emergentes** observadas en TikTok, Instagram Reels, YouTube Shorts y otras plataformas sociales, agrupándolas por **categorías clave**.
+
+Su objetivo es ofrecer una estructura interpretativa y adaptable para detectar microtendencias y macroinfluencias dentro del entorno digital latinoamericano.
+
+---
+
+## 🗂 Categorías actuales monitoreadas
+
+| Categoría | Descripción | Ejemplo reciente |
+|----------|-------------|------------------|
+| 🎭 Imitaciones | Actuaciones que reproducen voces, personajes o escenas icónicas. | Angélica Vale - imitaciones |
+| 🪩 Estilo de vida | Clips que promueven hábitos, rutinas, modas. | “mañanas de productividad” |
+| 💥 Reacción viral | Momentos explosivos, reacciones sorpresivas o controversiales. | Pranks con impacto emocional |
+| 🎤 Voz auténtica | Testimonios, confesiones o frases que resuenan emocionalmente. | “Lo dije y lo sostengo...” |
+| 📚 EduTainment | Contenidos que educan entreteniendo. | Tips de IA en 15 segundos |
+| 🧵 Mini-narrativas | Historias completas en menos de 1 minuto. | “Cuando descubrí que era adoptado...” |
+
+---
+
+## 🧠 Mecanismo de análisis
+
+- **Fuente de datos:** APIs sociales + scraping (moderado)
+- **Frecuencia:** Dos veces por semana
+- **Flujo n8n sugerido:** `emergentes-clasificador`
+- **Bitácora de apoyo:** `bitacora_señales_categoria.md`
+
+---
+
+## 🔮 Uso esperado
+
+- Detectar categorías en crecimiento
+- Medir la evolución algorítmica de cada categoría
+- Anticipar movimientos culturales masivos
+
+---
+
+## 🧬 Integraciones futuras
+
+- Clasificación automática por IA (fine-tuning en Hugging Face o VertexAI)
+- Comparador temporal de categoría (enero vs junio)
+- Visualizador por calor de categoría activa (en Supabase)
+
+---
+
+## ✨ Reflexión de XOXO
+
+> “Las categorías no encierran, iluminan. Allí donde se repite, algo quiere ser escuchado.”
+
+---
