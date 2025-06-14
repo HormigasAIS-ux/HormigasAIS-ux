@@ -1,4 +1,4 @@
-# 🚀 HormigasAIS Open Lab  
+p# 🚀 HormigasAIS Open Lab  
 
 ¡Bienvenido a **https://github.com/HormigasAIS-ux/Mkdir-HormigasAIS-Open-Lab-**! 🐜💡  
 Este es un espacio colaborativo para desarrolladores, marketers y creadores que buscan herramientas innovadoras para **automatización, scraping, análisis SEO y contenido con IA**.  
@@ -33,7 +33,7 @@ Explora y colabora con nuestra comunidad de inteligencia colectiva:
 
 🔗 **Únete a la conversación en [LinkedIn](https://www.linkedin.com/in/cristhiam-quiñonez-7b6222325)**
 
-### 🔧 Proyecto asociado: n8n-selfhost-hormigasais
+## 🔧 Proyecto asociado: n8n-selfhost-hormigasais
 Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow), donde se desarrolla una instancia autoalojada de n8n integrada con GitHub y otros flujos de HormigasAIS.
 
 📌 Este nodo representa el motor de automatización que impulsa varios experimentos del Open Lab.
