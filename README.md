@@ -1,5 +1,10 @@
 🟦 Aporte Técnico al Proyecto “golang-library-app-microservice” (2025)
 
+
+
+
+[aporte]!(https://github.com/HormigasAIS-ux/golang-library-app-microservice)]
+
 Corrección crítica de DTO + Implementación de seguridad con Husky
 
 Proyecto externo: golang-library-app-microservice
