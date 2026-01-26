@@ -5,7 +5,7 @@
 ## Status
 
 This repository is classified as **Experimental / Edge**  
-in accordance with the HormigasAIS ecosystem `STATUS.md`.
+in accordance with the HormigasAIS ecosystem [`STATUS.md`.](https://github.com/Thrumanshow/HormigasAIS-/blob/main/STATUS.md)
 
 This classification does not imply authority or governance.
 
