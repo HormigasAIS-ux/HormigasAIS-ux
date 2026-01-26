@@ -46,8 +46,8 @@ Este repositorio:
 Toda su actividad se rige por:
 
 📜 [**GOVERNANCE.md**](https://github.com/Thrumanshow/HormigasAIS-/blob/main/GOVERNANCE.md)
-Repositorio institucional:  
-https://github.com/HormigasAIS/HormigasAIS
+
+[Repositorio institucional](https://github.com/Thrumanshow/HormigasAIS-)
 
 Documento fundacional UX:  
 📘 **FOUNDATION-UX.md**
