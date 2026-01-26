@@ -1,5 +1,13 @@
 # 🧠 HormigasAIS-UX  
 **Experiencia Humana en Sistemas de Inteligencia Distribuida**
+---
+
+## Status
+
+This repository is classified as **Experimental / Edge**  
+in accordance with the HormigasAIS ecosystem `STATUS.md`.
+
+This classification does not imply authority or governance.
 
 ---
 
